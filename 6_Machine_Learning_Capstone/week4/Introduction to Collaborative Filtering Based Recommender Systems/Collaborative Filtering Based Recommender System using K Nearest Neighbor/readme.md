@@ -2,6 +2,10 @@
 ## Collaborative Filtering Based Recommender Systems:
 
 -  ### A) Collaborative Filtering Based Recommender System using K Nearest Neighbor:
-   -  dfdfd
+   -  PART1_Collaborative_Filtering_Based_Recommender_System_using_K_Nearest_Neighbor.ipynb
+   ```
+   Implementation Option 1: Use Surprise library (recommended)
+   ```
+   -  PART2_Collaborative_Filtering_Based_Recommender_System_using_K_Nearest_Neighbor.ipynb
 
 -  ### B) Collaborative Filtering based Recommender System using Non-negative Matrix Factorization
