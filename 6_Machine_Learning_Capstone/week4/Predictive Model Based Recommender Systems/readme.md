@@ -8,4 +8,5 @@
    → relevant file: RegressionBased_Rating_Score_Prediction_Using_Embedding_Features.ipynb
 
 -  ### C) `Classification-based` Rating Mode Prediction using Embedding Features
+   → relevant file: ClassificationBased_Rating_Mode_Prediction_using_Embedding_Features.ipynb
 
