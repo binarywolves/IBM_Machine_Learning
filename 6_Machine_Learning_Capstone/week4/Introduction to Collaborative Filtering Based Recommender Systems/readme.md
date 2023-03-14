@@ -14,6 +14,7 @@
 
 -  ### B) Collaborative Filtering based Recommender System using Non-negative Matrix Factorization
    -  Collaborative_Filtering_based_Recommender_System_using_NonNegative_Matrix_Factorization.ipynb
-      This one file contains both:
+   -  
+      This one file contains both:<br>
       → Implementation Option 1: Use `Surprise` library, and
       → Implementation Option 2: Use `numpy`, `pandas`, and `sklearn`
