@@ -23,5 +23,5 @@ The learning consists of six courses
 >I consider the theoretical course material to be IBM and Coursera's own,
 >so I will post the practical exercises in this repository, complete with my own analysis, visualization and solution code* ***to help those who get stuck writing a code, have no one to ask and therefore cannot move forward, because from my own experience it can be time consuming to figure out the key to a solution.***  
 
-&#9733; Enjoy Coding! &#9733;
-&nbsp;&nbsp;&nbsp;&nbsp;   *binarywolf*
+&#9733; Enjoy Coding! &#9733;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;   *-binarywolf*
