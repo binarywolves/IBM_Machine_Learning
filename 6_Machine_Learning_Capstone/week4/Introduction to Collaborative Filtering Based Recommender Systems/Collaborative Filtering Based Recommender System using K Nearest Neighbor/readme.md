@@ -7,8 +7,8 @@
       Implementation Option 1: Use Surprise library
       ```
    -  PART2_Collaborative_Filtering_Based_Recommender_System_using_K_Nearest_Neighbor.ipynb
-      ```
+      
       Implementation Option 2: Use `numpy`, `pandas`, and `sklearn`
-      ```
+      
 
 -  ### B) Collaborative Filtering based Recommender System using Non-negative Matrix Factorization
