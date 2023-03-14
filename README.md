@@ -6,5 +6,5 @@ The learning consists of six courses
 
 ---------------------------------------------
 
-- the platform was provided by <font color="yellow"> Coursera </font>
-- the course material was provided by ### IBM
+- the platform was provided by **Coursera**
+- the course material was provided by <code>IBM</code>
