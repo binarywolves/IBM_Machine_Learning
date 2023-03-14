@@ -3,7 +3,7 @@
 
 The learning consists of six courses
 <br>
-| 1 |&nbsp;&nbsp;&nbsp;&nbsp;   | 2 |   | 3 |   | 4 |   | 5 |   | 6 | 
+| 1 |&nbsp;&nbsp;&nbsp;&nbsp;   | 2 |&nbsp;&nbsp;&nbsp;&nbsp;   | 3 |&nbsp;&nbsp;&nbsp;&nbsp;   | 4 |&nbsp;&nbsp;&nbsp;&nbsp;   | 5 |&nbsp;&nbsp;&nbsp;&nbsp;   | 6 |&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ---------------------------------------------
 
