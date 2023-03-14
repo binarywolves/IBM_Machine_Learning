@@ -7,4 +7,4 @@ The learning consists of six courses
 ---------------------------------------------
 
 - the platform was provided by **Coursera**
-- the course material was provided by <code>IBM</code>
+- the course material was provided by <code style="color:yellow">IBM</code>
