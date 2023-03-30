@@ -11,4 +11,16 @@ I made sure in a backend.py file that the courses selected by the user are assig
 
 The available dataset ratings.csv is automatically completed with user's ratings as well.
 
+models = [
+"Course Similarity",
+"User Profile",
+"Clustering",
+"Clustering with PCA",
+"KNN",
+"NMF",
+"Neural Network",
+"Regression with Embedding Features",
+"Classification with Embedding Features"
+]
+
 
